@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SeM02U2G3zw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lcoll\\Documents\\Code\\Garbage--Collector-CLI\\Garbage--Collector-CLI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lcoll\\.nuget\\packages\\spectre.console\\0.54.0\\spectre.console.0.54.0.nupkg.sha512"
+  ],
+  "logs": []
+}
