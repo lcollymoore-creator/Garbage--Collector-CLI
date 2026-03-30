@@ -29,4 +29,4 @@ await AnsiConsole.Live(new Panel(""))
     });
 
 
-FileSearch.SearchFile("C:\\Users\\lcoll\\OneDrive\\Imágenes");
+FileSearch.SearchFile("C:\\Users\\lcoll\\OneDrive\\Documents\\The Witcher 3");
