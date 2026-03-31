@@ -15,3 +15,7 @@ A simple command-line tool built in C# that scans a specified directory and remo
 🛠️ Technologies
 C#
 .NET (CLI Application)
+
+
+👨‍💻 Author
+Luis R Collymoore
